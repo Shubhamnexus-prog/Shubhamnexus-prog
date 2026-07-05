@@ -67,5 +67,6 @@ I enjoy exploring various domains of Artificial Intelligence and Data Science. I
 ![](https://github-readme-stats.vercel.app/api?username=Shubhamnexus-prog&show_icons=true&theme=radical&hide_border=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shubhamnexus-prog&theme=radical&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamnexus-prog&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubhamnexus-prog&show_icons=true)
 
 
