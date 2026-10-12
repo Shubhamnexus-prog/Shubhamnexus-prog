@@ -12,7 +12,6 @@ I enjoy exploring various domains of Artificial Intelligence and Data Science. I
 🔗 LinkedIn - linkedin.com/in/shubham-gupta-2b04693a1
 
 ---
-
 # 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-gupta-2b04693a1)
@@ -21,7 +20,6 @@ I enjoy exploring various domains of Artificial Intelligence and Data Science. I
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubhamnexus-prog)
 
 ---
-
 # 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
